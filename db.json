@@ -1,7 +1,21 @@
 {
-  "user" : {
+  "user" : [{
     "id" : 1,
     "firstName" : "Everardo",
     "lastName" : "Elizalde"
-  }
+  },{
+    "id" : 2,
+    "firstName" : "Undertaker",
+    "lastName" : "WWE"},{
+      "id" : 3,
+    "firstName" : "Heisenberg",
+    "lastName" : "BreakindBad"
+    },
+            {
+            "id" : 4,
+    "firstName" : "Rocky",
+    "lastName" : "Balboa"
+            }
+            
+    ]
 }
